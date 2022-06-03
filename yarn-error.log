@@ -1,0 +1,36 @@
+Arguments: 
+  /home/matheus/.nvm/versions/node/v14.19.1/bin/node /home/matheus/.yarn/bin/yarn.js init
+
+PATH: 
+  /home/matheus/.yarn/bin:/home/matheus/.config/yarn/global/node_modules/.bin:/home/matheus/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/bin/remote-cli:/home/matheus/.local/bin:/home/matheus/.yarn/bin:/home/matheus/.config/yarn/global/node_modules/.bin:/home/matheus/.nvm/versions/node/v14.19.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/PHP/v7.4:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/Git/mingw64/bin:/mnt/c/Program Files/Git/usr/bin:/mnt/c/Program Files/Microsoft/Web Platform Installer/:/mnt/c/Users/Matheus/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Matheus/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/Matheus/AppData/Roaming/npm:/mnt/c/Users/Matheus/AppData/Local/GitHubDesktop/bin:/mnt/c/ProgramData/ComposerSetup/bin:/mnt/c/Program Files/Symfony:/mnt/c/Program Files/PuTTY/:/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn/:/mnt/c/Program Files (x86)/dotnet/:/mnt/c/Users/Matheus/AppData/Roaming/nvm:/mnt/c/Program Files/nodejs:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Users/Matheus/AppData/Roaming/Composer/vendor/bin:/mnt/c/Users/Matheus/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0:/mnt/c/Users/Matheus/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0/LocalCache/local-packages/Python310/Scripts:/mnt/c/Users/Matheus/AppData/Roaming/Composer/vendor/bin/drush:/mnt/c/Program Files/Lando/bin:/snap/bin
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  14.19.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/home/matheus/.yarn/lib/cli.js:137143:13)
+      at Interface.emit (events.js:400:28)
+      at Interface._ttyWrite (readline.js:1001:16)
+      at ReadStream.onkeypress (readline.js:265:10)
+      at ReadStream.emit (events.js:400:28)
+      at emitKeys (internal/readline/utils.js:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1270:36)
+      at ReadStream.emit (events.js:400:28)
+      at addChunk (internal/streams/readable.js:293:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
